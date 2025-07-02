@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.d-grid {
+  display: grid;
+}
+.grid-cols-1 {
+  grid-template-columns: 1fr;
+}
+.gap-6 {
+  gap: 1.5rem;
+}
+.max-w-7xl {
+  max-width: 80rem;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.p-6 {
+  padding: 1.5rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+@media (min-width: 640px) {
+  .grid-cols-2-sm {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1024px) {
+  .grid-cols-3-lg {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.bg-white {
+  background-color: white;
+}
+.shadow-md {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.rounded {
+  border-radius: 8px;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.w-full {
+  width: 100%;
+}
+.h-48 {
+  height: 12rem;
+}
+.obj-cover {
+  object-fit: cover;
+}
+.f-size-20 {
+  font-size: 20px;
+}
+.f-size-14 {
+  font-size: 14px;
+}
+.f-weight-bold {
+  font-weight: bold;
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.btn {
+  background-color: #4b5563;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+.btn:hover {
+  background-color: #374151;
+}
+.bg-light {
+  background-color: #f3f4f6;
+}
