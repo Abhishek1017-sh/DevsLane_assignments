@@ -1,0 +1,46 @@
+.bg-darkgreen{
+  background:darkgreen ; 
+}
+.font-30{
+  font-size:30px;
+}
+.border-4-dotted-black{
+  border:4px dotted black;
+}
+.border-6-solid-black{
+  border:6px solid black;
+}
+.padding-2-10{
+  padding:2px 10px;
+}
+.bg-white{
+  background:white;
+}
+.d-flex{
+  display:flex;
+}
+.jc-center{
+  justify-content:center;
+}
+.ai-center{
+  align-items:center;
+}
+.ta-center{
+  text-align:center;
+}
+.m-auto{ 
+  margin: auto;
+}
+.min-h-100vh{
+  min-height:100vh;
+}
+.w-90{
+  width:90%;
+}
+.h-40{
+  height:40vh;
+}
+.m-top{
+  margin-top:10px;
+}
+
