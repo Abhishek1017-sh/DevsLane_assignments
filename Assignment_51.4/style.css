@@ -1,0 +1,90 @@
+.bg-white{
+    background-color: white;
+}
+.font-color-black{
+    color: black;
+}
+.font-color-darkblue{
+    color: #4f40d6;
+}
+.bg-color-darkblue{
+    background-color: #4f40d6;
+}
+.font-color-white{
+    color: white;
+}
+.flex{
+    display: flex;
+}
+.jc-center{
+    justify-content: center;
+}
+.ai-center{
+    align-items: center;
+}
+.js-start{
+    justify-content: flex-start;
+}
+.flex-direction-reverse-row{
+    flex-direction: row-reverse;
+}
+.flex-direction-column{
+    flex-direction: column;
+}
+.border-none{
+    border:none;
+}
+.border-radius-5{
+    border-radius: 5px;
+}
+.display-block{
+    display: block;
+}
+.max-width-1200{
+    max-width: 1200px;
+}
+.width-100{
+    width:100%;
+}
+.margin-40{
+    margin:40px;
+}
+.width-50{
+    width: 50%;
+}
+.height-100{
+    height:100%;
+}
+.object-fit-cover{
+    object-fit: cover;
+}
+.padding-40{
+    padding:40px;
+}
+.margin-top-16{
+    margin-top: 16px;
+}
+.margin-bot-24{
+    margin-bottom:24px
+}
+.font-56{
+    font-size:56px;
+}
+.font-16{
+    font-size:16px;
+}
+.font-bold{
+    font-weight: bold;
+}
+.color-gray{
+    color:gray;
+}
+.gap-16{
+    gap:16px;
+}
+.padding-12-20{
+    padding: 12px 20px;
+}
+.border-1-solid-lightgray{
+    border:1px solid lightgray;
+}
